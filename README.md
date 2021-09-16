@@ -5,5 +5,5 @@ Penney's game is a 2 player nontransitive game where the two players make a uniq
 
 
 # Goal
-To generalize the game to fit a sequence of length n
+To generalize the game to fit a sequence of length n  
 To generalize the game to accomidate m people
