@@ -18,4 +18,4 @@ To generalize the game to fit more than a binary state (expanding the base)
 4. (Done) Can simulate the Generalized Penney's game trough a simulation
 
 
-I'm done exploring this game until something else catches my attention about this game
+
